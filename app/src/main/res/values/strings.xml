@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Stash</string>
+    <string name="save_app_idea">Save App Idea</string>
+    <string name="description">Description</string>
+    <string name="platform">Platform</string>
+    <string name="category">Category</string>
+    <string name="name">Name</string>
+    <string name="error_saving_app">Please complete all fields.</string>
+    <string name="app_saved">App saved!</string>
+    <string name="name_of_app">Name of App</string>
+    <string name="description_of_app">Description of App</string>
+    <string name="apps_cleared">Apps cleared.</string>
+    <string name="placeholder_text">Placeholder</string>
+    <string name="clear_all_app_ideas">Clear All App Ideas</string>
+</resources>
